@@ -20,7 +20,7 @@ KPE-Pro(Knowledge Probing \& Evaluation for Proficiency)知识探针评测数据
       <td>1007</td>
       <td rowspan="2">2033</td>
       <td rowspan="2">30.7</td>
-      <td rowspan="5">6620</td>
+      <td rowspan="6">6620</td>
     </tr>
     <tr>
       <td>社会常识</td>
